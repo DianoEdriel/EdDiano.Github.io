@@ -1,3 +1,3 @@
 <?php
-    header("main.html");
+    header('unavailable.html');
 ?>
